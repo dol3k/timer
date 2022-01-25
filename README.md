@@ -1,4 +1,4 @@
 ## Timer in JavaScript by dol3k
 * The script shows the timer.
 * As it is JS, it gets the time from your computer
-![alt tag](https://imgur.com/a/XPIFq6b)
+![img](https://imgur.com/a/XPIFq6b)
